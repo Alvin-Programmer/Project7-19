@@ -1,4 +1,3 @@
 Hello Git
 I want a good job
 dev1 first change
-dev2 secnd change
